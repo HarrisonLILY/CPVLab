@@ -15,7 +15,7 @@ In order to use these script you will need to have a VPS, I suggest one of the f
 [![DigitalOcean Referral Badge](https://raw.githubusercontent.com/HarrisonLILY/CPVLab/main/assets/img/digitalocean.png)](https://www.digitalocean.com/?refcode=86d726fe29de&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)&nbsp;&nbsp;
 [![Hetzner Referral Badge](https://raw.githubusercontent.com/HarrisonLILY/CPVLab/main/assets/img/hetzner.png)](https://hetzner.cloud/?ref=s1BDrtcj51aU)
 
-You will also need a domain
+You will also need a domain, i generatlly use NameCheap as they are reliable and don't charge silly fee's if you want to transfer away! [Check them out here](https://namecheap.pxf.io/4PPGYo)
 
 ### Prerequisites
 
@@ -23,7 +23,7 @@ The only prerequisites are a VPS the above have been tested and work well, and a
 
 ### Usage
 
-For full useage and info please see https://afflift.rocks/r/cpv
+You can find useage instuctions in each script but for the full guide and info please see https://afflift.rocks/r/cpv
 
 ## Contact
 
