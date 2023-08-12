@@ -11,8 +11,8 @@
 
 In order to use these script you will need to have a VPS, I suggest one of the following providers as I have tested on each one successfully with these scripts.
 
-[![Vultr Referral Badge](https://raw.githubusercontent.com/HarrisonLILY/CPVLab/main/assets/img/vultr.png)](https://www.vultr.com/?ref=9086637-8H)
-[![DigitalOcean Referral Badge](https://raw.githubusercontent.com/HarrisonLILY/CPVLab/main/assets/img/digitalocean.png)](https://www.digitalocean.com/?refcode=86d726fe29de&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+[![Vultr Referral Badge](https://raw.githubusercontent.com/HarrisonLILY/CPVLab/main/assets/img/vultr.png)](https://www.vultr.com/?ref=9086637-8H)&nbsp;&nbsp;
+[![DigitalOcean Referral Badge](https://raw.githubusercontent.com/HarrisonLILY/CPVLab/main/assets/img/digitalocean.png)](https://www.digitalocean.com/?refcode=86d726fe29de&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)&nbsp;&nbsp;
 [![Hetzner Referral Badge](https://raw.githubusercontent.com/HarrisonLILY/CPVLab/main/assets/img/hetzner.png)](https://hetzner.cloud/?ref=s1BDrtcj51aU)
 
 You will also need a domain
@@ -20,6 +20,10 @@ You will also need a domain
 ### Prerequisites
 
 The only prerequisites are a VPS the above have been tested and work well, and a CPVLab license which you can get from [here](https://cpvlab.pro/?utm_source=neil945).
+
+### Usage
+
+For full useage and info please see https://afflift.rocks/r/cpv
 
 ## Contact
 
